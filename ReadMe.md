@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React <br>🔭 I’m currently working on Quran Player Project<br>💬 Ask me about Html5 , Css , javaScript<br>⚡ Fun fact
+🌱 I’m currently learning React <br>🔭 I’m currently working on italian sneakers Project<br>💬 Ask me about Html5 , Css , javaScript<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
